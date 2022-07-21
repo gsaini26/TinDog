@@ -1,2 +1,3 @@
 # TinDog
-TinDog Website Styling Assignment. Initial unsstyled files given by appbrewery.co
+This repository contains a styled fictional website called "tindog". Styles use bootstrap, google fonts, and fonta awesome. 
+Original starter html unsstyled, provided by appbrewery.co
